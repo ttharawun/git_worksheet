@@ -4,4 +4,4 @@ octocat = readLines("./octocat.txt")
 
 octocat = c(octocat, "ASCII Art of the Octocat Mascot for Github")
 
-writeChar(octocat, "./octocat.txt")
+writeLines(octocat, "./octocat.txt")
