@@ -21,3 +21,7 @@ g:::::gg   gg:::::g
   gg:::::::::::::g                                 
     ggg::::::ggg                                   
        gggggg                                      
+
+Git is a powerful tool 
+Git can be used for collaboration and for working with different people on the same project/file at the same time 
+Git and Github are best friends <3 
