@@ -1,3 +1,3 @@
 # this script will tell me good morning 
 
-print("Hello sunshine!")
+print("Hello glommy clouds sad man!")
